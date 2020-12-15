@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'PermanentMarker';
+    src: url('./PermanentMarker-Regular.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+  
+.hello {
+    color: rgb(255, 0, 212);
+    font-family: 'PermanentMarker';
+    background: url('./pattern.png');
+}
